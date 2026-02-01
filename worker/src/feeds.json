@@ -1,0 +1,7 @@
+[
+  {"name":"The Verge","url":"https://www.theverge.com/rss/index.xml","category":"Tech"},
+  {"name":"TechCrunch","url":"https://techcrunch.com/feed/","category":"Startups"},
+  {"name":"OpenAI","url":"https://openai.com/blog/rss.xml","category":"AI"},
+  {"name":"Google AI Blog","url":"https://blog.google/technology/ai/rss/","category":"AI"},
+  {"name":"Hacker News","url":"https://hnrss.org/frontpage","category":"Dev"}
+]

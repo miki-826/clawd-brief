@@ -1,0 +1,2299 @@
+{
+  "generatedAt": "2026-02-01T15:06:21.362Z",
+  "timezone": "Asia/Tokyo",
+  "feeds": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "category": "Tech",
+      "title": "The Verge",
+      "error": null
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "category": "Startups",
+      "title": "TechCrunch",
+      "error": null
+    },
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/blog/rss.xml",
+      "category": "AI",
+      "title": "OpenAI News",
+      "error": null
+    },
+    {
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/rss/",
+      "category": "AI",
+      "title": "AI",
+      "error": null
+    },
+    {
+      "name": "Hacker News",
+      "url": "https://hnrss.org/frontpage",
+      "category": "Dev",
+      "title": "Hacker News: Front Page",
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "The Verge::https://www.theverge.com/tech/871350/artly-robot-coffee-jarvis-seattle",
+      "title": "I don’t hate the robot barista like I thought I would",
+      "url": "https://www.theverge.com/tech/871350/artly-robot-coffee-jarvis-seattle",
+      "source": "The Verge",
+      "category": "Tech",
+      "date": "2026-02-01T15:00:00.000Z",
+      "summary": "It’s so embarrassing when a robot is better than you at latte art. | Photo: Allison Johnson / The Verge In Seattle, the only thing we love more than coffee is our coffee shops. On a six-block walk I pass at least a half…",
+      "raw": {
+        "guid": null,
+        "creator": null
+      }
+    },
+    {
+      "id": "The Verge::https://www.theverge.com/gadgets/870772/antigravity-insta360-a1-drone-deal-sale",
+      "title": "Antigravity’s 360-degree A1 drone is 15 percent off",
+      "url": "https://www.theverge.com/gadgets/870772/antigravity-insta360-a1-drone-deal-sale",
+      "source": "The Verge",
+      "category": "Tech",
+      "date": "2026-02-01T14:00:00.000Z",
+      "summary": "Antigravity’s ambitious A1 360-degree drone is 15 percent off through February 9th. The first-ever discount on this model is available across all bundles, with the most affordable option dropping from $1,599 to $1,359 a…",
+      "raw": {
+        "guid": null,
+        "creator": null
+      }
+    },
+    {
+      "id": "Hacker News::https://www.adventuregamestudio.co.uk/",
+      "title": "Adventure Game Studio: OSS software for creating adventure games",
+      "url": "https://www.adventuregamestudio.co.uk/",
+      "source": "Hacker News",
+      "category": "Dev",
+      "date": "2026-02-01T13:56:56.000Z",
+      "summary": "Article URL: https://www.adventuregamestudio.co.uk/ Comments URL: https://news.ycombinator.com/item?id=46846252 Points: 11 # Comments: 3",
+      "raw": {
+        "guid": "https://news.ycombinator.com/item?id=46846252",
+        "creator": "doener"
+      }
+    },
+    {
+      "id": "The Verge::https://www.theverge.com/column/870883/telephoto-phone-camera",
+      "title": "The telephoto is the only phone camera that really matters",
+      "url": "https://www.theverge.com/column/870883/telephoto-phone-camera",
+      "source": "The Verge",
+      "category": "Tech",
+      "date": "2026-02-01T13:00:00.000Z",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Android phones, follow Dominic Preston. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for…",
+      "raw": {
+        "guid": null,
+        "creator": null
+      }
+    },
+    {
+      "id": "Hacker News::https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users",
+      "title": "How to Scale a System from 0 to 10M+ Users",
+      "url": "https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users",
+      "source": "Hacker News",
+      "category": "Dev",
+      "date": "2026-02-01T11:35:32.000Z",
+      "summary": "Article URL: https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users Comments URL: https://news.ycombinator.com/item?id=46845470 Points: 88 # Comments: 43",
+      "raw": {
+        "guid": "https://news.ycombinator.com/item?id=46845470",
+        "creator": "olayiwoladekoya"
+      }
+    },
+    {
+      "id": "Hacker News::https://www.amigaunix.com/doku.php/home",
+      "title": "Amiga Unix (Amix)",
+      "url": "https://www.amigaunix.com/doku.php/home",
+      "source": "Hacker News",
+      "category": "Dev",
+      "date": "2026-02-01T10:57:20.000Z",
+      "summary": "Article URL: https://www.amigaunix.com/doku.php/home Comments URL: https://news.ycombinator.com/item?id=46845244 Points: 34 # Comments: 9",
+      "raw": {
+        "guid": "https://news.ycombinator.com/item?id=46845244",
+        "creator": "donatj"
+      }
+    },
+    {
+      "id": "Hacker News::https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/",
+      "title": "FOSDEM 2026 – Open-Source Conference in Brussels – Day#1 Recap",
+      "url": "https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/",
+      "source": "Hacker News",
+      "category": "Dev",
+      "date": "2026-02-01T10:30:41.000Z",
+      "summary": "Article URL: https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/ Comments URL: https://news.ycombinator.com/item?id=46845103 Points: 46 # Comments: 17",
+      "raw": {
+        "guid": "https://news.ycombinator.com/item?id=46845103",
+        "creator": "yannick2k"
+      }
+    },
+    {
+      "id": "Hacker News::https://netbird.io/",
+      "title": "Netbird – Open Source Zero Trust Networking",
+      "url": "https://netbird.io/",
+      "source": "Hacker News",
+      "category": "Dev",
+      "date": "2026-02-01T09:44:01.000Z",
+      "summary": "Article URL: https://netbird.io/ Comments URL: https://news.ycombinator.com/item?id=46844870 Points: 358 # Comments: 123",
+      "raw": {
+        "guid": "https://news.ycombinator.com/item?id=46844870",
+        "creator": "l1am0"
+      }
+    },
+    {
+      "id": "Hacker News::https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
+      "title": "What I learned building an opinionated and minimal coding agent",
+      "url": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
+      "source": "Hacker News",
+      "category": "Dev",
+      "date": "2026-02-01T09:33:46.000Z",
+      "summary": "Article URL: https://mariozechner.at/posts/2025-11-30-pi-coding-agent/ Comments URL: https://news.ycombinator.com/item?id=46844822 Points: 159 # Comments: 50",
+      "raw": {
+        "guid": "https://news.ycombinator.com/item?id=46844822",
+        "creator": "SatvikBeri"
+      }
+    },
+    {
+      "id": "Hacker News::https://nostarch.com/book-of-pf-4th-edition",
+      "title": "The Book of PF, 4th edition",
+      "url": "https://nostarch.com/book-of-pf-4th-edition",
+      "source": "Hacker News",
+      "category": "Dev",
+      "date": "2026-02-01T07:50:51.000Z",
+      "summary": "Article URL: https://nostarch.com/book-of-pf-4th-edition Comments URL: https://news.ycombinator.com/item?id=46844350 Points: 122 # Comments: 26",
+      "raw": {
+        "guid": "https://news.ycombinator.com/item?id=46844350",
+        "creator": "0x54MUR41"
+      }
+    },
+    {
+      "id": "TechCrunch::https://techcrunch.com/2026/01/31/meet-the-new-european-unicorns-of-2026/",
+      "title": "Meet the new European unicorns of 2026",
+      "url": "https://techcrunch.com/2026/01/31/meet-the-new-european-unicorns-of-2026/",
+      "source": "TechCrunch",
+      "category": "Startups",
+      "date": "2026-02-01T07:00:00.000Z",
+      "summary": "From Belgium to Ukraine, five fresh European unicorns were minted this January.",
+      "raw": {
+        "guid": "https://techcrunch.com/?p=3088496",
+        "creator": "Anna Heim"
+      }
+    },
+    {
+      "id": "Hacker News::https://rose.systems/animalist/",
+      "title": "List animals until failure",
+      "url": "https://rose.systems/animalist/",
+      "source": "Hacker News",
+      "category": "Dev",
+      "date": "2026-02-01T01:03:23.000Z",
+      "summary": "Article URL: https://rose.systems/animalist/ Comments URL: https://news.ycombinator.com/item?id=46842603 Points: 212 # Comments: 116",
+      "raw": {
+        "guid": "https://news.ycombinator.com/item?id=46842603",
+        "creator": "l1n"
+      }
+    },
+    {
+      "id": "Hacker News::http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html",
+      "title": "Sparse File LRU Cache",
+      "url": "http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html",
+      "source": "Hacker News",
+      "category": "Dev",
+      "date": "2026-02-01T01:00:07.000Z",
+      "summary": "Article URL: http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html Comments URL: https://news.ycombinator.com/item?id=46842586 Points: 43 # Comments: 11",
+      "raw": {
+        "guid": "https://news.ycombinator.com/item?id=46842586",
+        "creator": "paladin314159"
+      }
+    },
+    {
+      "id": "Hacker News::https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/",
+      "title": "Cells use 'bioelectricity' to coordinate and make group decisions",
+      "url": "https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/",
+      "source": "Hacker News",
+      "category": "Dev",
+      "date": "2026-02-01T00:00:11.000Z",
+      "summary": "Article URL: https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/ Comments URL: https://news.ycombinator.com/item?id=46842178 Points: 101 # Comments: 49",
+      "raw": {
+        "guid": "https://news.ycombinator.com/item?id=46842178",
+        "creator": "marojejian"
+      }
+    },
+    {
+      "id": "The Verge::https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai",
+      "title": "Nvidia CEO denies he’s ‘unhappy’ with OpenAI",
+      "url": "https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai",
+      "source": "The Verge",
+      "category": "Tech",
+      "date": "2026-01-31T23:37:56.000Z",
+      "summary": "Nvidia's CEO Jensen Huang denied reports that he was unhappy with OpenAI and said his company still planned to make a \"huge\" investment in the ChatGPT firm. NVIDIA announced in September that it would invest up to $100…",
+      "raw": {
+        "guid": null,
+        "creator": null
+      }
+    },
+    {
+      "id": "TechCrunch::https://techcrunch.com/2026/01/31/waymo-reportedly-raising-a-16-billion-funding-round/",
+      "title": "Waymo reportedly raising a $16B funding round",
+      "url": "https://techcrunch.com/2026/01/31/waymo-reportedly-raising-a-16-billion-funding-round/",
+      "source": "TechCrunch",
+      "category": "Startups",
+      "date": "2026-01-31T21:56:22.000Z",
+      "summary": "Waymo is reportedly finalizing a new funding round that will value the robotaxi company at $110 billion.",
+      "raw": {
+        "guid": "https://techcrunch.com/?p=3088510",
+        "creator": "Anthony Ha"
+      }
+    },
+    {
+      "id": "TechCrunch::https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/",
+      "title": "SpaceX seeks federal approval to launch 1 million solar-powered satellite data centers",
+      "url": "https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/",
+      "source": "TechCrunch",
+      "category": "Startups",
+      "date": "2026-01-31T21:27:25.000Z",
+      "summary": "SpaceX's filing claims these satellites will be “a first step towards becoming a Kardashev II-level civilization — one that can harness the Sun’s full power.\"",
+      "raw": {
+        "guid": "https://techcrunch.com/?p=3088505",
+        "creator": "Anthony Ha"
+      }
+    },
+    {
+      "id": "Hacker News::https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/",
+      "title": "Generative AI and Wikipedia editing: What we learned in 2025",
+      "url": "https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/",
+      "source": "Hacker News",
+      "category": "Dev",
+      "date": "2026-01-31T21:14:02.000Z",
+      "summary": "Article URL: https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/ Comments URL: https://news.ycombinator.com/item?id=46840924 Points: 186 # Comments: 81",
+      "raw": {
+        "guid": "https://news.ycombinator.com/item?id=46840924",
+        "creator": "ColinWright"
+      }
+    },
+    {
+      "id": "Hacker News::https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html",
+      "title": "Outsourcing thinking",
+      "url": "https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html",
+      "source": "Hacker News",
+      "category": "Dev",
+      "date": "2026-01-31T21:06:57.000Z",
+      "summary": "Article URL: https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html Comments URL: https://news.ycombinator.com/item?id=46840865 Points: 181 # Comments: 167",
+      "raw": {
+        "guid": "https://news.ycombinator.com/item?id=46840865",
+        "creator": "todsacerdoti"
+      }
+    },
+    {
+      "id": "Hacker News::https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer",
+      "source": "Hacker News",
+      "category": "Dev",
+      "date": "2026-01-31T21:00:56.000Z",
+      "summary": "Article URL: https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer Comments URL: https://news.ycombinator.com/item?id=46840801 Points: 0 # Comments: 0",
+      "raw": {
+        "guid": "https://news.ycombinator.com/item?id=46840801",
+        "creator": "OBrien_1107"
+      }
+    },
+    {
+      "id": "Hacker News::https://github.com/zupat/related_post_gen",
+      "title": "Data Processing Benchmark Featuring Rust, Go, Swift, Zig, Julia etc.",
+      "url": "https://github.com/zupat/related_post_gen",
+      "source": "Hacker News",
+      "category": "Dev",
+      "date": "2026-01-31T20:50:56.000Z",
+      "summary": "Article URL: https://github.com/zupat/related_post_gen Comments URL: https://news.ycombinator.com/item?id=46840698 Points: 116 # Comments: 70",
+      "raw": {
+        "guid": "https://news.ycombinator.com/item?id=46840698",
+        "creator": "behnamoh"
+      }
+    },
+    {
+      "id": "Hacker News::https://www.theregister.com/2026/01/30/road_sign_hijack_ai/",
+      "title": "Autonomous cars, drones cheerfully obey prompt injection by road sign",
+      "url": "https://www.theregister.com/2026/01/30/road_sign_hijack_ai/",
+      "source": "Hacker News",
+      "category": "Dev",
+      "date": "2026-01-31T20:48:33.000Z",
+      "summary": "Article URL: https://www.theregister.com/2026/01/30/road_sign_hijack_ai/ Comments URL: https://news.ycombinator.com/item?id=46840676 Points: 117 # Comments: 90",
+      "raw": {
+        "guid": "https://news.ycombinator.com/item?id=46840676",
+        "creator": "breve"
+      }
+    },
+    {
+      "id": "Hacker News::https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/",
+      "title": "In praise of –dry-run",
+      "url": "https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/",
+      "source": "Hacker News",
+      "category": "Dev",
+      "date": "2026-01-31T20:42:13.000Z",
+      "summary": "Article URL: https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/ Comments URL: https://news.ycombinator.com/item?id=46840612 Points: 217 # Comments: 116",
+      "raw": {
+        "guid": "https://news.ycombinator.com/item?id=46840612",
+        "creator": "ingve"
+      }
+    },
+    {
+      "id": "The Verge::https://www.theverge.com/policy/871606/minneapolis-general-strike-anti-ice-protest",
+      "title": "“No more Minnesota nice, Minneapolis will strike”",
+      "url": "https://www.theverge.com/policy/871606/minneapolis-general-strike-anti-ice-protest",
+      "source": "The Verge",
+      "category": "Tech",
+      "date": "2026-01-31T20:30:00.000Z",
+      "summary": "It was too cold to take off my mittens and check Google Maps so I put my faith in the trickle of bundled-up people ahead of me. All of them were carrying signs and wearing whistles around their necks on top of layers an…",
+      "raw": {
+        "guid": null,
+        "creator": null
+      }
+    },
+    {
+      "id": "The Verge::https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit",
+      "title": "SpaceX wants to put 1 million solar-powered data centers into orbit",
+      "url": "https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit",
+      "source": "The Verge",
+      "category": "Tech",
+      "date": "2026-01-31T19:38:36.000Z",
+      "summary": "SpaceX filed a request with the FCC on Friday seeking approval to put a constellation of 1 million data center satellites into orbit. While the FCC is unlikely to approve a network that expansive, SpaceX's strategy has…",
+      "raw": {
+        "guid": null,
+        "creator": null
+      }
+    },
+    {
+      "id": "Hacker News::https://crl.io/ds-game-engine/",
+      "title": "Nintendo DS code editor and scriptable game engine",
+      "url": "https://crl.io/ds-game-engine/",
+      "source": "Hacker News",
+      "category": "Dev",
+      "date": "2026-01-31T18:27:36.000Z",
+      "summary": "Article URL: https://crl.io/ds-game-engine/ Comments URL: https://news.ycombinator.com/item?id=46839215 Points: 155 # Comments: 37",
+      "raw": {
+        "guid": "https://news.ycombinator.com/item?id=46839215",
+        "creator": "Antibabelic"
+      }
+    },
+    {
+      "id": "TechCrunch::https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/",
+      "title": "Nvidia CEO pushes back against report that his company’s $100B OpenAI investment has stalled",
+      "url": "https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/",
+      "source": "TechCrunch",
+      "category": "Startups",
+      "date": "2026-01-31T17:54:12.000Z",
+      "summary": "Nvidia CEO Jensen Huang said that a recent report of friction between his company and OpenAI was “nonsense.”",
+      "raw": {
+        "guid": "https://techcrunch.com/?p=3088494",
+        "creator": "Anthony Ha"
+      }
+    },
+    {
+      "id": "Hacker News::https://an.dywa.ng/carrier-gnss.html",
+      "title": "Mobile carriers can get your GPS location",
+      "url": "https://an.dywa.ng/carrier-gnss.html",
+      "source": "Hacker News",
+      "category": "Dev",
+      "date": "2026-01-31T17:21:34.000Z",
+      "summary": "Article URL: https://an.dywa.ng/carrier-gnss.html Comments URL: https://news.ycombinator.com/item?id=46838597 Points: 746 # Comments: 441",
+      "raw": {
+        "guid": "https://news.ycombinator.com/item?id=46838597",
+        "creator": "cbeuw"
+      }
+    },
+    {
+      "id": "TechCrunch::https://techcrunch.com/2026/01/31/homeboosts-app-will-show-you-where-to-save-on-your-utility-bills/",
+      "title": "HomeBoost’s app will show you where to save on your utility bills",
+      "url": "https://techcrunch.com/2026/01/31/homeboosts-app-will-show-you-where-to-save-on-your-utility-bills/",
+      "source": "TechCrunch",
+      "category": "Startups",
+      "date": "2026-01-31T16:15:00.000Z",
+      "summary": "The startup is partnering with utilities to help homeowners determine the best upgrades to cut their energy use.",
+      "raw": {
+        "guid": "https://techcrunch.com/?p=3087940",
+        "creator": "Tim De Chant"
+      }
+    },
+    {
+      "id": "The Verge::https://www.theverge.com/gadgets/871092/airpods-4-anc-google-tv-streamer-4k-deal-sale",
+      "title": "The AirPods 4 and Google’s 4K streamer are just two of this week’s best deals",
+      "url": "https://www.theverge.com/gadgets/871092/airpods-4-anc-google-tv-streamer-4k-deal-sale",
+      "source": "The Verge",
+      "category": "Tech",
+      "date": "2026-01-31T15:56:27.000Z",
+      "summary": "Happy Saturday, folks! After a few weeks of middling deals, we’re starting see things pick up. Some of our favorite deals of the holiday season have returned in some fashion, making now a great time to pick up deal stal…",
+      "raw": {
+        "guid": null,
+        "creator": null
+      }
+    },
+    {
+      "id": "Hacker News::https://arstechnica.com/gadgets/2026/01/inside-nvidias-10-year-effort-to-make-the-shield-tv-the-most-updated-android-device-ever/",
+      "title": "Nvidia's 10-year effort to make the Shield TV the most updated Android device",
+      "url": "https://arstechnica.com/gadgets/2026/01/inside-nvidias-10-year-effort-to-make-the-shield-tv-the-most-updated-android-device-ever/",
+      "source": "Hacker News",
+      "category": "Dev",
+      "date": "2026-01-31T15:14:14.000Z",
+      "summary": "Article URL: https://arstechnica.com/gadgets/2026/01/inside-nvidias-10-year-effort-to-make-the-shield-tv-the-most-updated-android-device-ever/ Comments URL: https://news.ycombinator.com/item?id=46837346 Points: 191 # Co…",
+      "raw": {
+        "guid": "https://news.ycombinator.com/item?id=46837346",
+        "creator": "qmr"
+      }
+    },
+    {
+      "id": "The Verge::https://www.theverge.com/games/867020/cassette-boy-review-pc-playstation-xbox-nintendo-switch",
+      "title": "Cassette Boy forces you to see its world in a whole new way",
+      "url": "https://www.theverge.com/games/867020/cassette-boy-review-pc-playstation-xbox-nintendo-switch",
+      "source": "The Verge",
+      "category": "Tech",
+      "date": "2026-01-31T14:00:00.000Z",
+      "summary": "It's no secret that Cassette Boy is inspired by the classics. It's a top-down adventure game in the vein of a retro Legend of Zelda, while your home base is a small town like in an older Pokémon game, complete with a mo…",
+      "raw": {
+        "guid": null,
+        "creator": null
+      }
+    },
+    {
+      "id": "The Verge::https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia",
+      "title": "ChatGPT isn’t the only chatbot pulling answers from Elon Musk’s Grokipedia",
+      "url": "https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia",
+      "source": "The Verge",
+      "category": "Tech",
+      "date": "2026-01-31T13:00:00.000Z",
+      "summary": "ChatGPT is using Grokipedia as a source, and it's not the only AI tool to do so. Citations to Elon Musk's AI-generated encyclopedia are starting to appear in answers from Google's AI Overviews, AI Mode, and Gemini, too.…",
+      "raw": {
+        "guid": null,
+        "creator": null
+      }
+    },
+    {
+      "id": "The Verge::https://www.theverge.com/tech/871493/apple-airtags-yahoo-scout-wonder-man-installer",
+      "title": "A nice upgrade for Apple’s simplest gadget",
+      "url": "https://www.theverge.com/tech/871493/apple-airtags-yahoo-scout-wonder-man-installer",
+      "source": "The Verge",
+      "category": "Tech",
+      "date": "2026-01-31T13:00:00.000Z",
+      "summary": "Hi, friends! Welcome to Installer No. 114, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, send Arc Raiders tips, and also you can read all the old editions at the Installer homep…",
+      "raw": {
+        "guid": null,
+        "creator": null
+      }
+    },
+    {
+      "id": "Hacker News::https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer",
+      "title": "Insane Growth Goldbridge (YC F25) Is Hiring a Forward Deployed Engineer",
+      "url": "https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer",
+      "source": "Hacker News",
+      "category": "Dev",
+      "date": "2026-01-31T12:00:22.000Z",
+      "summary": "Article URL: https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer Comments URL: https://news.ycombinator.com/item?id=46835834 Points: 0 # Comments: 0",
+      "raw": {
+        "guid": "https://news.ycombinator.com/item?id=46835834",
+        "creator": "alvinsalehi"
+      }
+    },
+    {
+      "id": "TechCrunch::https://techcrunch.com/2026/01/30/a16z-partner-kofi-ampadu-to-leave-firm-after-txo-program-pause/",
+      "title": "a16z partner Kofi Ampadu to leave firm after TxO program pause",
+      "url": "https://techcrunch.com/2026/01/30/a16z-partner-kofi-ampadu-to-leave-firm-after-txo-program-pause/",
+      "source": "TechCrunch",
+      "category": "Startups",
+      "date": "2026-01-31T01:23:12.000Z",
+      "summary": "Ampadu's departure perhaps signals the end of the TxO chapter. The fund and program focused on supporting underserved founders by providing access to tech networks and investment capital through a donor-advised fund.",
+      "raw": {
+        "guid": "https://techcrunch.com/?p=3088339",
+        "creator": "Dominic-Madori Davis"
+      }
+    },
+    {
+      "id": "TechCrunch::https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/",
+      "title": "A peek inside Physical Intelligence, the startup building Silicon Valley’s buzziest robot brains",
+      "url": "https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/",
+      "source": "TechCrunch",
+      "category": "Startups",
+      "date": "2026-01-31T00:09:54.000Z",
+      "summary": "If co-founder Lachy Groom has any doubts, he doesn’t show it. He’s working with people who've been working on this problem for decades and who believe the timing is finally right, which is all he needs to know.",
+      "raw": {
+        "guid": "https://techcrunch.com/?p=3088314",
+        "creator": "Connie Loizos"
+      }
+    },
+    {
+      "id": "TechCrunch::https://techcrunch.com/2026/01/30/onlyfans-considering-selling-majority-stake-to-architect-capital/",
+      "title": "OnlyFans considering selling majority stake to Architect Capital",
+      "url": "https://techcrunch.com/2026/01/30/onlyfans-considering-selling-majority-stake-to-architect-capital/",
+      "source": "TechCrunch",
+      "category": "Startups",
+      "date": "2026-01-30T23:54:09.000Z",
+      "summary": "This isn't the first time in recent memory that OnlyFans has been in talks to sell off its business.",
+      "raw": {
+        "guid": "https://techcrunch.com/?p=3088385",
+        "creator": "Lucas Ropek"
+      }
+    },
+    {
+      "id": "TechCrunch::https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/",
+      "title": "OpenClaw’s AI assistants are now building their own social network",
+      "url": "https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/",
+      "source": "TechCrunch",
+      "category": "Startups",
+      "date": "2026-01-30T23:36:34.000Z",
+      "summary": "The viral personal AI assistant formerly known as Clawdbot has a new shell — again. After briefly rebranding as Moltbot, it has now picked OpenClaw as its new name.",
+      "raw": {
+        "guid": "https://techcrunch.com/?p=3088386",
+        "creator": "Anna Heim"
+      }
+    },
+    {
+      "id": "TechCrunch::https://techcrunch.com/2026/01/30/informant-told-fbi-that-jeffrey-epstein-had-a-personal-hacker/",
+      "title": "Informant told FBI that Jeffrey Epstein had a ‘personal hacker’",
+      "url": "https://techcrunch.com/2026/01/30/informant-told-fbi-that-jeffrey-epstein-had-a-personal-hacker/",
+      "source": "TechCrunch",
+      "category": "Startups",
+      "date": "2026-01-30T22:04:00.000Z",
+      "summary": "The hacker allegedly developed zero-day exploits and offensive cyber tools and sold them to several countries, including an unnamed central African government, the U.K., and the United States.",
+      "raw": {
+        "guid": "https://techcrunch.com/?p=3088374",
+        "creator": "Lorenzo Franceschi-Bicchierai"
+      }
+    },
+    {
+      "id": "TechCrunch::https://techcrunch.com/2026/01/30/instagram-might-soon-let-you-remove-yourself-from-someones-close-friends-list/",
+      "title": "Instagram might soon let you remove yourself from someone’s Close Friends list",
+      "url": "https://techcrunch.com/2026/01/30/instagram-might-soon-let-you-remove-yourself-from-someones-close-friends-list/",
+      "source": "TechCrunch",
+      "category": "Startups",
+      "date": "2026-01-30T21:14:58.000Z",
+      "summary": "Since the feature's launch in 2018, users haven't been able to remove themselves from someone else's Close Friends list.",
+      "raw": {
+        "guid": "https://techcrunch.com/?p=3088333",
+        "creator": "Aisha Malik"
+      }
+    },
+    {
+      "id": "TechCrunch::https://techcrunch.com/2026/01/30/blue-origin-pauses-space-tourism-flights-to-focus-on-the-moon/",
+      "title": "Blue Origin pauses space tourism flights to focus on the moon",
+      "url": "https://techcrunch.com/2026/01/30/blue-origin-pauses-space-tourism-flights-to-focus-on-the-moon/",
+      "source": "TechCrunch",
+      "category": "Startups",
+      "date": "2026-01-30T21:11:52.000Z",
+      "summary": "The company is trying to take advantage of President Donald Trump's desire to return astronauts to the lunar surface by the end of his term.",
+      "raw": {
+        "guid": "https://techcrunch.com/?p=3088354",
+        "creator": "Sean O'Kane"
+      }
+    },
+    {
+      "id": "TechCrunch::https://techcrunch.com/2026/01/30/spacexs-ipo-could-open-the-floodgates-and-secondaries-are-booming-in-the-meantime/",
+      "title": "SpaceX’s IPO could open the floodgates — and secondaries are booming in the meantime",
+      "url": "https://techcrunch.com/2026/01/30/spacexs-ipo-could-open-the-floodgates-and-secondaries-are-booming-in-the-meantime/",
+      "source": "TechCrunch",
+      "category": "Startups",
+      "date": "2026-01-30T19:41:25.000Z",
+      "summary": "To unpack what SpaceX’s IPO chatter means, how private liquidity works before a debut, and what investors are looking for in today’s pre-IPO giants, we spoke with Greg Martin, managing director at Rainmaker Securities,…",
+      "raw": {
+        "guid": "https://techcrunch.com/?p=3088310",
+        "creator": "Rebecca Bellan"
+      }
+    },
+    {
+      "id": "TechCrunch::https://techcrunch.com/video/uber-is-literally-in-the-drivers-seat-when-it-comes-to-av-bets/",
+      "title": "Uber is literally in the driver’s seat when it comes to AV bets",
+      "url": "https://techcrunch.com/video/uber-is-literally-in-the-drivers-seat-when-it-comes-to-av-bets/",
+      "source": "TechCrunch",
+      "category": "Startups",
+      "date": "2026-01-30T18:56:17.000Z",
+      "summary": "Self-driving truck startup Waabi’s billion-dollar fundraise isn’t just about trucks. The deal, for $750 million up front plus another $250 million from Uber tied to deployment milestones, marks a major expansion into ro…",
+      "raw": {
+        "guid": "https://techcrunch.com/?post_type=tc_video&p=3088305",
+        "creator": "Theresa Loconsolo"
+      }
+    },
+    {
+      "id": "TechCrunch::https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/",
+      "title": "Anthropic brings agentic plug-ins to Cowork",
+      "url": "https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/",
+      "source": "TechCrunch",
+      "category": "Startups",
+      "date": "2026-01-30T18:00:00.000Z",
+      "summary": "The company says you can use plug-ins to \"tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose so your team gets more consistent outc…",
+      "raw": {
+        "guid": "https://techcrunch.com/?p=3087918",
+        "creator": "Lucas Ropek"
+      }
+    },
+    {
+      "id": "TechCrunch::https://techcrunch.com/2026/01/30/bluesky-issues-its-first-transparency-report-noting-rise-in-user-reports-and-legal-demands/",
+      "title": "Bluesky issues its first transparency report, noting rise in user reports and legal demands",
+      "url": "https://techcrunch.com/2026/01/30/bluesky-issues-its-first-transparency-report-noting-rise-in-user-reports-and-legal-demands/",
+      "source": "TechCrunch",
+      "category": "Startups",
+      "date": "2026-01-30T17:25:00.000Z",
+      "summary": "Bluesky's first transparency reports tackle moderation, regulatory compliance, account takedowns, and more. The number of government legal requests went up fivefold.",
+      "raw": {
+        "guid": "https://techcrunch.com/?p=3088209",
+        "creator": "Sarah Perez"
+      }
+    },
+    {
+      "id": "TechCrunch::https://techcrunch.com/2026/01/30/reid-hoffman-urges-silicon-valley-leaders-to-stop-bending-the-knee-to-president-trump/",
+      "title": "Reid Hoffman urges Silicon Valley leaders to stop bending the knee to President Trump",
+      "url": "https://techcrunch.com/2026/01/30/reid-hoffman-urges-silicon-valley-leaders-to-stop-bending-the-knee-to-president-trump/",
+      "source": "TechCrunch",
+      "category": "Startups",
+      "date": "2026-01-30T16:51:39.000Z",
+      "summary": "Some Valley CEOs have condemned recent border patrol events, but Hoffman urges them to wield their influence more powerfully.",
+      "raw": {
+        "guid": "https://techcrunch.com/?p=3088202",
+        "creator": "Julie Bort"
+      }
+    },
+    {
+      "id": "TechCrunch::https://techcrunch.com/2026/01/30/russian-hackers-breached-polish-power-grid-thanks-to-bad-security-report-says/",
+      "title": "Russian hackers breached Polish power grid thanks to bad security, report says",
+      "url": "https://techcrunch.com/2026/01/30/russian-hackers-breached-polish-power-grid-thanks-to-bad-security-report-says/",
+      "source": "TechCrunch",
+      "category": "Startups",
+      "date": "2026-01-30T16:50:24.000Z",
+      "summary": "The Polish government accused a Russian government hacking group of hacking into energy facilities taking advantage of default usernames and passwords.",
+      "raw": {
+        "guid": "https://techcrunch.com/?p=3088239",
+        "creator": "Lorenzo Franceschi-Bicchierai"
+      }
+    },
+    {
+      "id": "TechCrunch::https://techcrunch.com/2026/01/30/last-24-hours-to-grab-your-1-pass-at-50-off-to-techcrunch-disrupt-2026/",
+      "title": "Last 24 hours to grab your plus-one pass at 50% off to TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/01/30/last-24-hours-to-grab-your-1-pass-at-50-off-to-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "category": "Startups",
+      "date": "2026-01-30T15:00:00.000Z",
+      "summary": "Today is the last day to lock in a plus-one pass at 50% off to TechCrunch Disrupt 2026, happening on October 13-15 in San Francisco.",
+      "raw": {
+        "guid": "https://techcrunch.com/?p=3088146",
+        "creator": "TechCrunch Events"
+      }
+    },
+    {
+      "id": "TechCrunch::https://techcrunch.com/2026/01/29/how-sequoia-backed-ethos-reached-the-public-market-while-rivals-fell-short/",
+      "title": "How Sequoia-backed Ethos reached the public market while rivals fell short",
+      "url": "https://techcrunch.com/2026/01/29/how-sequoia-backed-ethos-reached-the-public-market-while-rivals-fell-short/",
+      "source": "TechCrunch",
+      "category": "Startups",
+      "date": "2026-01-30T01:33:13.000Z",
+      "summary": "The profitable life-insurance platform was one of the first major tech companies to test the 2026 public markets.",
+      "raw": {
+        "guid": "https://techcrunch.com/?p=3088129",
+        "creator": "Marina Temkin"
+      }
+    },
+    {
+      "id": "Google AI Blog::https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+      "title": "Project Genie: Experimenting with infinite, interactive worlds",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "date": "2026-01-29T17:00:00.000Z",
+      "summary": "Google AI Ultra subscribers in the U.S. can now try out Project Genie.",
+      "raw": {
+        "guid": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+        "creator": {
+          "$": {
+            "xmlns:author": "http://www.w3.org/2005/Atom"
+          },
+          "name": [
+            "Diego Rivas"
+          ],
+          "title": [
+            "Product Manager"
+          ],
+          "department": [
+            "Google DeepMind"
+          ],
+          "company": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/inside-our-in-house-data-agent",
+      "title": "Inside OpenAI’s in-house data agent",
+      "url": "https://openai.com/index/inside-our-in-house-data-agent",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-29T10:00:00.000Z",
+      "summary": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.",
+      "raw": {
+        "guid": "https://openai.com/index/inside-our-in-house-data-agent",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/taisei",
+      "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
+      "url": "https://openai.com/index/taisei",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-29T00:00:00.000Z",
+      "summary": "Taisei Corporation uses ChatGPT Enterprise to support HR-led talent development and scale generative AI across its global construction business.",
+      "raw": {
+        "guid": "https://openai.com/index/taisei",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/retiring-gpt-4o-and-older-models",
+      "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+      "url": "https://openai.com/index/retiring-gpt-4o-and-older-models",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-29T00:00:00.000Z",
+      "summary": "On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In the API, there are no changes…",
+      "raw": {
+        "guid": "https://openai.com/index/retiring-gpt-4o-and-older-models",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+      "title": "The next chapter for AI in the EU",
+      "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-28T01:00:00.000Z",
+      "summary": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
+      "raw": {
+        "guid": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/emea-youth-and-wellbeing-grant",
+      "title": "EMEA Youth & Wellbeing Grant",
+      "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-28T01:00:00.000Z",
+      "summary": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
+      "raw": {
+        "guid": "https://openai.com/index/emea-youth-and-wellbeing-grant",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/ai-agent-link-safety",
+      "title": "Keeping your data safe when an AI agent clicks a link",
+      "url": "https://openai.com/index/ai-agent-link-safety",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-28T00:00:00.000Z",
+      "summary": "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards.",
+      "raw": {
+        "guid": "https://openai.com/index/ai-agent-link-safety",
+        "creator": null
+      }
+    },
+    {
+      "id": "Google AI Blog::https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/",
+      "title": "Google AI Plus is now available everywhere our AI plans are available, including the U.S.",
+      "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "date": "2026-01-27T18:00:00.000Z",
+      "summary": "We’re launching Google AI Plus in 35 new countries and territories including the US, making it available everywhere Google AI plans are available.",
+      "raw": {
+        "guid": "https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/",
+        "creator": {
+          "$": {
+            "xmlns:author": "http://www.w3.org/2005/Atom"
+          },
+          "name": [
+            "Vikas Kansal"
+          ],
+          "title": [
+            "Product Lead"
+          ],
+          "department": [
+            "AI Subscriptions"
+          ],
+          "company": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "Google AI Blog::https://blog.google/products-and-platforms/products/search/ai-mode-ai-overviews-updates/",
+      "title": "Just ask anything: a seamless new Search experience",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-ai-overviews-updates/",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "date": "2026-01-27T17:00:00.000Z",
+      "summary": "Search users around the world now have easier access to frontier AI capabilities.",
+      "raw": {
+        "guid": "https://blog.google/products-and-platforms/products/search/ai-mode-ai-overviews-updates/",
+        "creator": {
+          "$": {
+            "xmlns:author": "http://www.w3.org/2005/Atom"
+          },
+          "name": [
+            "Robby Stein"
+          ],
+          "title": [
+            "VP of Product, Google Search"
+          ],
+          "department": [
+            ""
+          ],
+          "company": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "Google AI Blog::https://blog.google/products-and-platforms/products/gemini/release-notes-podcast-smokejumpers/",
+      "title": "In our latest podcast, hear how the “Smoke Jumpers” team brings Gemini to billions of people.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/release-notes-podcast-smokejumpers/",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "date": "2026-01-27T10:28:00.000Z",
+      "summary": "Bringing Gemini to billions of users requires a massive, coordinated infrastructure effort. In the latest episode of the Google AI: Release Notes podcast, host Logan Kil…",
+      "raw": {
+        "guid": "https://blog.google/products-and-platforms/products/gemini/release-notes-podcast-smokejumpers/",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/pvh-future-of-fashion",
+      "title": "PVH reimagines the future of fashion with OpenAI",
+      "url": "https://openai.com/index/pvh-future-of-fashion",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-27T06:00:00.000Z",
+      "summary": "PVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGPT Enterprise to bring AI into fashion design, supply chain, and consumer engagement.",
+      "raw": {
+        "guid": "https://openai.com/index/pvh-future-of-fashion",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/introducing-prism",
+      "title": "Introducing Prism",
+      "url": "https://openai.com/index/introducing-prism",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-27T00:00:00.000Z",
+      "summary": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place.",
+      "raw": {
+        "guid": "https://openai.com/index/introducing-prism",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/trustbank",
+      "title": "Powering tax donations with AI powered personalized recommendations",
+      "url": "https://openai.com/index/trustbank",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-27T00:00:00.000Z",
+      "summary": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery. A multi-agent system helps donors navigate…",
+      "raw": {
+        "guid": "https://openai.com/index/trustbank",
+        "creator": null
+      }
+    },
+    {
+      "id": "Google AI Blog::https://blog.google/innovation-and-ai/models-and-research/google-deepmind/dear-upstairs-neighbors/",
+      "title": "How animators and AI researchers made ‘Dear Upstairs Neighbors’",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/dear-upstairs-neighbors/",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "date": "2026-01-26T18:00:00.000Z",
+      "summary": "Today, our animated short film, “Dear Upstairs Neighbors,” previews at the Sundance Film Festival.",
+      "raw": {
+        "guid": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/dear-upstairs-neighbors/",
+        "creator": {
+          "$": {
+            "xmlns:author": "http://www.w3.org/2005/Atom"
+          },
+          "name": [
+            "Cassidy Curtis"
+          ],
+          "title": [
+            "Supervising Animator"
+          ],
+          "department": [
+            ""
+          ],
+          "company": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/indeed-maggie-hulce",
+      "title": "How Indeed uses AI to help evolve the job search",
+      "url": "https://openai.com/index/indeed-maggie-hulce",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-26T00:00:00.000Z",
+      "summary": "Indeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers.",
+      "raw": {
+        "guid": "https://openai.com/index/indeed-maggie-hulce",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/unrolling-the-codex-agent-loop",
+      "title": "Unrolling the Codex agent loop",
+      "url": "https://openai.com/index/unrolling-the-codex-agent-loop",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-23T12:00:00.000Z",
+      "summary": "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API.",
+      "raw": {
+        "guid": "https://openai.com/index/unrolling-the-codex-agent-loop",
+        "creator": null
+      }
+    },
+    {
+      "id": "Google AI Blog::https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/",
+      "title": "Personal Intelligence in AI Mode in Search: Help that's uniquely yours",
+      "url": "https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "date": "2026-01-22T16:00:00.000Z",
+      "summary": "Personal Intelligence lets you tap into your context from Gmail and Photos to deliver tailored responses in Search, just for you.",
+      "raw": {
+        "guid": "https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/",
+        "creator": {
+          "$": {
+            "xmlns:author": "http://www.w3.org/2005/Atom"
+          },
+          "name": [
+            "Robby Stein"
+          ],
+          "title": [
+            "VP of Product, Google Search"
+          ],
+          "department": [
+            ""
+          ],
+          "company": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/scaling-postgresql",
+      "title": "Scaling PostgreSQL to power 800 million ChatGPT users",
+      "url": "https://openai.com/index/scaling-postgresql",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-22T12:00:00.000Z",
+      "summary": "An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation.",
+      "raw": {
+        "guid": "https://openai.com/index/scaling-postgresql",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/praktika",
+      "title": "Inside Praktika's conversational approach to language learning",
+      "url": "https://openai.com/index/praktika",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-22T05:00:00.000Z",
+      "summary": "How Praktika uses GPT-4.1 and GPT-5.2 to build adaptive AI tutors that personalize lessons, track progress, and help learners achieve real-world language fluency",
+      "raw": {
+        "guid": "https://openai.com/index/praktika",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work",
+      "title": "Inside GPT-5 for Work: How Businesses Use GPT-5",
+      "url": "https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-22T00:00:00.000Z",
+      "summary": "A data-driven report on how workers across industries use ChatGPT—covering adoption trends, top tasks, departmental patterns, and the future of AI at work.",
+      "raw": {
+        "guid": "https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/higgsfield",
+      "title": "How Higgsfield turns simple ideas into cinematic social videos",
+      "url": "https://openai.com/index/higgsfield",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-21T10:00:00.000Z",
+      "summary": "Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2.",
+      "raw": {
+        "guid": "https://openai.com/index/higgsfield",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/how-countries-can-end-the-capability-overhang",
+      "title": "How countries can end the capability overhang",
+      "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-21T01:00:00.000Z",
+      "summary": "Our latest report reveals stark differences in advanced AI adoption across countries and outlines new initiatives to help nations capture productivity gains from AI.",
+      "raw": {
+        "guid": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/edu-for-countries",
+      "title": "Introducing Edu for Countries",
+      "url": "https://openai.com/index/edu-for-countries",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-21T01:00:00.000Z",
+      "summary": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.",
+      "raw": {
+        "guid": "https://openai.com/index/edu-for-countries",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/horizon-1000",
+      "title": "Horizon 1000: Advancing AI for primary healthcare",
+      "url": "https://openai.com/index/horizon-1000",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-20T21:00:00.000Z",
+      "summary": "OpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI capabilities for healthcare in Africa. The initiative aims to reach 1,000 clinics by 2028.",
+      "raw": {
+        "guid": "https://openai.com/index/horizon-1000",
+        "creator": null
+      }
+    },
+    {
+      "id": "Google AI Blog::https://blog.google/company-news/outreach-and-initiatives/google-org/sundance-institute-ai-education/",
+      "title": "Building a community-led future for AI in film with Sundance Institute",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/sundance-institute-ai-education/",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "date": "2026-01-20T20:30:00.000Z",
+      "summary": "A look at how Sundance Institute will build a community-led ecosystem for AI education and empowerment, to support creatives.",
+      "raw": {
+        "guid": "https://blog.google/company-news/outreach-and-initiatives/google-org/sundance-institute-ai-education/",
+        "creator": {
+          "$": {
+            "xmlns:author": "http://www.w3.org/2005/Atom"
+          },
+          "name": [
+            "Mira Lane"
+          ],
+          "title": [
+            "Vice President, Envisioning Studio, Technology & Society"
+          ],
+          "department": [
+            ""
+          ],
+          "company": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/stargate-community",
+      "title": "Stargate Community",
+      "url": "https://openai.com/index/stargate-community",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-20T19:00:00.000Z",
+      "summary": "Stargate Community plans detail a community-first approach to AI infrastructure, using locally tailored plans shaped by community input, energy needs, and workforce priorities.",
+      "raw": {
+        "guid": "https://openai.com/index/stargate-community",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/cisco",
+      "title": "Cisco and OpenAI redefine enterprise engineering with AI agents",
+      "url": "https://openai.com/index/cisco",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-20T11:00:00.000Z",
+      "summary": "Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development.",
+      "raw": {
+        "guid": "https://openai.com/index/cisco",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
+      "title": "ServiceNow powers actionable enterprise AI with OpenAI",
+      "url": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-20T05:45:00.000Z",
+      "summary": "ServiceNow expands access to OpenAI frontier models to power AI-driven enterprise workflows, summarization, search, and voice across the ServiceNow Platform.",
+      "raw": {
+        "guid": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/our-approach-to-age-prediction",
+      "title": "Our approach to age prediction",
+      "url": "https://openai.com/index/our-approach-to-age-prediction",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-20T00:00:00.000Z",
+      "summary": "ChatGPT is rolling out age prediction to estimate if accounts are under or over 18, applying safeguards for teens and refining accuracy over time.",
+      "raw": {
+        "guid": "https://openai.com/index/our-approach-to-age-prediction",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/ai-for-self-empowerment",
+      "title": "AI for self empowerment",
+      "url": "https://openai.com/index/ai-for-self-empowerment",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-18T12:00:00.000Z",
+      "summary": "How AI can expand human agency by closing the capability overhang—helping people, businesses, and countries unlock real productivity, growth, and opportunity.",
+      "raw": {
+        "guid": "https://openai.com/index/ai-for-self-empowerment",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence",
+      "title": "A business that scales with the value of intelligence",
+      "url": "https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-18T10:00:00.000Z",
+      "summary": "OpenAI’s business model scales with intelligence—spanning subscriptions, API, ads, commerce, and compute—driven by deepening ChatGPT adoption.",
+      "raw": {
+        "guid": "https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/the-truth-elon-left-out",
+      "title": "The truth left out from Elon Musk’s recent court filing",
+      "url": "https://openai.com/index/the-truth-elon-left-out",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-16T12:00:00.000Z",
+      "summary": "The truth left out from Elon Musk’s recent court filing.",
+      "raw": {
+        "guid": "https://openai.com/index/the-truth-elon-left-out",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/introducing-chatgpt-go",
+      "title": "Introducing ChatGPT Go, now available worldwide",
+      "url": "https://openai.com/index/introducing-chatgpt-go",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-16T00:00:00.000Z",
+      "summary": "ChatGPT Go is now available worldwide, offering expanded access to GPT-5.2 Instant, higher usage limits, and longer memory—making advanced AI more affordable globally.",
+      "raw": {
+        "guid": "https://openai.com/index/introducing-chatgpt-go",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/our-approach-to-advertising-and-expanding-access",
+      "title": "Our approach to advertising and expanding access to ChatGPT",
+      "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-16T00:00:00.000Z",
+      "summary": "OpenAI plans to test advertising in the U.S. for ChatGPT’s free and Go tiers to expand affordable access to AI worldwide, while protecting privacy, trust, and answer quality.",
+      "raw": {
+        "guid": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
+        "creator": null
+      }
+    },
+    {
+      "id": "Google AI Blog::https://blog.google/products-and-platforms/products/gemini/how-nano-banana-got-its-name/",
+      "title": "How Nano Banana got its name",
+      "url": "https://blog.google/products-and-platforms/products/gemini/how-nano-banana-got-its-name/",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "date": "2026-01-15T16:06:00.000Z",
+      "summary": "We’re peeling back the origin story of Nano Banana, one of Google DeepMind’s most popular models.",
+      "raw": {
+        "guid": "https://blog.google/products-and-platforms/products/gemini/how-nano-banana-got-its-name/",
+        "creator": {
+          "$": {
+            "xmlns:author": "http://www.w3.org/2005/Atom"
+          },
+          "name": [
+            "Ari Marini"
+          ],
+          "title": [
+            "Keyword Contributor"
+          ],
+          "department": [
+            ""
+          ],
+          "company": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "Google AI Blog::https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/",
+      "title": "Learners and educators are AI’s new “super users”",
+      "url": "https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "date": "2026-01-15T11:00:00.000Z",
+      "summary": "Google’s 2025 Our Life with AI survey found people are using AI tools to learn new things.",
+      "raw": {
+        "guid": "https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/",
+        "creator": {
+          "$": {
+            "xmlns:author": "http://www.w3.org/2005/Atom"
+          },
+          "name": [
+            "Ben Gomes"
+          ],
+          "title": [
+            "Chief Technologist"
+          ],
+          "department": [
+            "Learning & Sustainability"
+          ],
+          "company": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/investing-in-merge-labs",
+      "title": "Investing in Merge Labs",
+      "url": "https://openai.com/index/investing-in-merge-labs",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-15T07:00:00.000Z",
+      "summary": "OpenAI is investing in Merge Labs to support new brain computer interfaces that bridge biological and artificial intelligence to maximize human ability, agency, and experience.",
+      "raw": {
+        "guid": "https://openai.com/index/investing-in-merge-labs",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/strengthening-the-us-ai-supply-chain",
+      "title": "Strengthening the U.S. AI supply chain through domestic manufacturing",
+      "url": "https://openai.com/index/strengthening-the-us-ai-supply-chain",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-15T00:00:00.000Z",
+      "summary": "OpenAI launches a new RFP to strengthen the U.S. AI supply chain by accelerating domestic manufacturing, creating jobs, and scaling AI infrastructure.",
+      "raw": {
+        "guid": "https://openai.com/index/strengthening-the-us-ai-supply-chain",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/cerebras-partnership",
+      "title": "OpenAI partners with Cerebras  ",
+      "url": "https://openai.com/index/cerebras-partnership",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-14T14:00:00.000Z",
+      "summary": "OpenAI partners with Cerebras to add 750MW of high-speed AI compute, reducing inference latency and making ChatGPT faster for real-time AI workloads.",
+      "raw": {
+        "guid": "https://openai.com/index/cerebras-partnership",
+        "creator": null
+      }
+    },
+    {
+      "id": "Google AI Blog::https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-community-benchmarks/",
+      "title": "Introducing Community Benchmarks on Kaggle",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-community-benchmarks/",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "date": "2026-01-14T14:00:00.000Z",
+      "summary": "Community Benchmarks on Kaggle lets the community build, share and run custom evaluations for AI models.",
+      "raw": {
+        "guid": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-community-benchmarks/",
+        "creator": {
+          "$": {
+            "xmlns:author": "http://www.w3.org/2005/Atom"
+          },
+          "name": [
+            "Michael Aaron"
+          ],
+          "title": [
+            "Software Engineer"
+          ],
+          "department": [
+            "Kaggle"
+          ],
+          "company": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "Google AI Blog::https://blog.google/company-news/inside-google/around-the-globe/google-middle-east/winner-of-the-global-ai-film-award/",
+      "title": "Announcing the winner of the Global AI Film Award",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-middle-east/winner-of-the-global-ai-film-award/",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "date": "2026-01-14T10:00:00.000Z",
+      "summary": "Over the past year, we’ve witnessed how creators globally have been using our AI models and tools to share their stories with the world. That’s why we launched the AI Fi…",
+      "raw": {
+        "guid": "https://blog.google/company-news/inside-google/around-the-globe/google-middle-east/winner-of-the-global-ai-film-award/",
+        "creator": {
+          "$": {
+            "xmlns:author": "http://www.w3.org/2005/Atom"
+          },
+          "name": [
+            "Anthony Nakache"
+          ],
+          "title": [
+            "Managing Director, Google MENA"
+          ],
+          "department": [
+            ""
+          ],
+          "company": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "Google AI Blog::https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/",
+      "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "date": "2026-01-13T17:00:00.000Z",
+      "summary": "Today, we’re introducing an enhanced version of Veo 3.1 “Ingredients to Video.”",
+      "raw": {
+        "guid": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/",
+        "creator": {
+          "$": {
+            "xmlns:author": "http://www.w3.org/2005/Atom"
+          },
+          "name": [
+            "Ricky Wong"
+          ],
+          "title": [
+            "Lead Product Manager"
+          ],
+          "department": [
+            "Google DeepMind"
+          ],
+          "company": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/zenken",
+      "title": "Zenken boosts a lean sales team with ChatGPT Enterprise",
+      "url": "https://openai.com/index/zenken",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-13T16:00:00.000Z",
+      "summary": "By rolling out ChatGPT Enterprise company-wide, Zenken has boosted sales performance, cut preparation time, and increased proposal success rates. AI-supported workflows are helping a lean team deliver more personalized,…",
+      "raw": {
+        "guid": "https://openai.com/index/zenken",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/openai-raising-concerns-policy",
+      "title": "OpenAI’s Raising Concerns Policy",
+      "url": "https://openai.com/index/openai-raising-concerns-policy",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-12T00:00:00.000Z",
+      "summary": "We’re publishing our Raising Concerns Policy, which protects employees’ rights to make protected disclosures.",
+      "raw": {
+        "guid": "https://openai.com/index/openai-raising-concerns-policy",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/stargate-sb-energy-partnership",
+      "title": "OpenAI and SoftBank Group partner with SB Energy",
+      "url": "https://openai.com/index/stargate-sb-energy-partnership",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-09T11:00:00.000Z",
+      "summary": "OpenAI and SoftBank Group partner with SB Energy to develop multi-gigawatt AI data center campuses, including a 1.2 GW Texas facility supporting the Stargate initiative.",
+      "raw": {
+        "guid": "https://openai.com/index/stargate-sb-energy-partnership",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/datadog",
+      "title": "Datadog uses Codex for system-level code review",
+      "url": "https://openai.com/index/datadog",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-09T00:00:00.000Z",
+      "summary": "OpenAI and Datadog brand graphic with the OpenAI wordmark on the left, the Datadog logo on the right, and a central abstract brown fur-like texture panel on a white background.",
+      "raw": {
+        "guid": "https://openai.com/index/datadog",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/netomi",
+      "title": "Netomi’s lessons for scaling agentic systems into the enterprise",
+      "url": "https://openai.com/index/netomi",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-08T13:00:00.000Z",
+      "summary": "How Netomi scales enterprise AI agents using GPT-4.1 and GPT-5.2—combining concurrency, governance, and multi-step reasoning for reliable production workflows.",
+      "raw": {
+        "guid": "https://openai.com/index/netomi",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/openai-for-healthcare",
+      "title": "OpenAI for Healthcare",
+      "url": "https://openai.com/index/openai-for-healthcare",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-08T12:00:00.000Z",
+      "summary": "OpenAI for Healthcare enables secure, enterprise-grade AI that supports HIPAA compliance—reducing administrative burden and supporting clinical workflows.",
+      "raw": {
+        "guid": "https://openai.com/index/openai-for-healthcare",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/tolan",
+      "title": "How Tolan builds voice-first AI with GPT-5.1",
+      "url": "https://openai.com/index/tolan",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-07T10:00:00.000Z",
+      "summary": "Tolan built a voice-first AI companion with GPT-5.1, combining low-latency responses, real-time context reconstruction, and memory-driven personalities for natural conversations.",
+      "raw": {
+        "guid": "https://openai.com/index/tolan",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/introducing-chatgpt-health",
+      "title": "Introducing ChatGPT Health ",
+      "url": "https://openai.com/index/introducing-chatgpt-health",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-07T00:00:00.000Z",
+      "summary": "ChatGPT Health is a dedicated experience that securely connects your health data and apps, with privacy protections and a physician-informed design.",
+      "raw": {
+        "guid": "https://openai.com/index/introducing-chatgpt-health",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/openai-grove",
+      "title": "Announcing OpenAI Grove Cohort 2",
+      "url": "https://openai.com/index/openai-grove",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2026-01-02T10:00:00.000Z",
+      "summary": "Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to AI tools, and hand…",
+      "raw": {
+        "guid": "https://openai.com/index/openai-grove",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/hardening-atlas-against-prompt-injection",
+      "title": "Continuously hardening ChatGPT Atlas against prompt injection",
+      "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-22T00:00:00.000Z",
+      "summary": "OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel exploits early and hard…",
+      "raw": {
+        "guid": "https://openai.com/index/hardening-atlas-against-prompt-injection",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/one-in-a-million-customers",
+      "title": "One in a million: celebrating the customers shaping AI’s future",
+      "url": "https://openai.com/index/one-in-a-million-customers",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-22T00:00:00.000Z",
+      "summary": "More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moderna, and Canva are t…",
+      "raw": {
+        "guid": "https://openai.com/index/one-in-a-million-customers",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/evaluating-chain-of-thought-monitorability",
+      "title": "Evaluating chain-of-thought monitorability",
+      "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-18T12:00:00.000Z",
+      "summary": "OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoning is far more effe…",
+      "raw": {
+        "guid": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/us-department-of-energy-collaboration",
+      "title": "Deepening our collaboration with the U.S. Department of Energy",
+      "url": "https://openai.com/index/us-department-of-energy-collaboration",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-18T11:00:00.000Z",
+      "summary": "OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongoing work with natio…",
+      "raw": {
+        "guid": "https://openai.com/index/us-department-of-energy-collaboration",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/updating-model-spec-with-teen-protections",
+      "title": "Updating our Model Spec with teen protections",
+      "url": "https://openai.com/index/updating-model-spec-with-teen-protections",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-18T11:00:00.000Z",
+      "summary": "OpenAI is updating its Model Spec with new Under-18 Principles that define how ChatGPT should support teens with safe, age-appropriate guidance grounded in developmental science. The update strengthens guardrails, clari…",
+      "raw": {
+        "guid": "https://openai.com/index/updating-model-spec-with-teen-protections",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
+      "title": "AI literacy resources for teens and parents",
+      "url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-18T11:00:00.000Z",
+      "summary": "OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence. The guides include expert-vetted tips for responsible use, critical thinking, healthy boundaries,…",
+      "raw": {
+        "guid": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/gpt-5-2-codex",
+      "title": "Introducing GPT-5.2-Codex",
+      "url": "https://openai.com/index/gpt-5-2-codex",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-18T00:00:00.000Z",
+      "summary": "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.",
+      "raw": {
+        "guid": "https://openai.com/index/gpt-5-2-codex",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/introducing-gpt-5-2-codex",
+      "title": "Introducing GPT-5.2-Codex",
+      "url": "https://openai.com/index/introducing-gpt-5-2-codex",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-18T00:00:00.000Z",
+      "summary": "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.",
+      "raw": {
+        "guid": "https://openai.com/index/introducing-gpt-5-2-codex",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/gpt-5-2-codex-system-card",
+      "title": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
+      "url": "https://openai.com/index/gpt-5-2-codex-system-card",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-18T00:00:00.000Z",
+      "summary": "This system card outlines the comprehensive safety measures implemented for GPT‑5.2-Codex. It details both model-level mitigations, such as specialized safety training for harmful tasks and prompt injections, and produc…",
+      "raw": {
+        "guid": "https://openai.com/index/gpt-5-2-codex-system-card",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/openai-academy-for-news-organizations",
+      "title": "Introducing OpenAI Academy for News Organizations",
+      "url": "https://openai.com/index/openai-academy-for-news-organizations",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-17T06:00:00.000Z",
+      "summary": "OpenAI is launching the OpenAI Academy for News Organizations, a new learning hub built with the American Journalism Project and The Lenfest Institute to help newsrooms use AI effectively. The Academy offers training, p…",
+      "raw": {
+        "guid": "https://openai.com/index/openai-academy-for-news-organizations",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/developers-can-now-submit-apps-to-chatgpt",
+      "title": "Developers can now submit apps to ChatGPT",
+      "url": "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-17T00:00:00.000Z",
+      "summary": "Developers can now submit apps for review and publication in ChatGPT, with approved apps appearing in a new in-product directory for easy discovery. Updated tools, guidelines, and the Apps SDK help developers build powe…",
+      "raw": {
+        "guid": "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/frontierscience",
+      "title": "Evaluating AI’s ability to perform scientific research tasks",
+      "url": "https://openai.com/index/frontierscience",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-16T09:00:00.000Z",
+      "summary": "OpenAI introduces FrontierScience, a benchmark testing AI reasoning in physics, chemistry, and biology to measure progress toward real scientific research.",
+      "raw": {
+        "guid": "https://openai.com/index/frontierscience",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/accelerating-biological-research-in-the-wet-lab",
+      "title": "Measuring AI’s capability to accelerate biological research",
+      "url": "https://openai.com/index/accelerating-biological-research-in-the-wet-lab",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-16T08:00:00.000Z",
+      "summary": "OpenAI introduces a real-world evaluation framework to measure how AI can accelerate biological research in the wet lab. Using GPT-5 to optimize a molecular cloning protocol, the work explores both the promise and risks…",
+      "raw": {
+        "guid": "https://openai.com/index/accelerating-biological-research-in-the-wet-lab",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/new-chatgpt-images-is-here",
+      "title": "The new ChatGPT Images is here",
+      "url": "https://openai.com/index/new-chatgpt-images-is-here",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-16T00:00:00.000Z",
+      "summary": "The new ChatGPT Images is powered by our flagship image generation model, delivering more precise edits, consistent details, and image generation up to 4× faster. The upgraded model is rolling out to all ChatGPT users t…",
+      "raw": {
+        "guid": "https://openai.com/index/new-chatgpt-images-is-here",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/shipping-sora-for-android-with-codex",
+      "title": "How We Used Codex to Ship Sora for Android in 28 Days",
+      "url": "https://openai.com/index/shipping-sora-for-android-with-codex",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-12T00:00:00.000Z",
+      "summary": "OpenAI shipped Sora for Android in 28 days using Codex. AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver rapid, reliable development.",
+      "raw": {
+        "guid": "https://openai.com/index/shipping-sora-for-android-with-codex",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/bny",
+      "title": "BNY builds “AI for everyone, everywhere” with OpenAI",
+      "url": "https://openai.com/index/bny",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-12T00:00:00.000Z",
+      "summary": "BNY is using OpenAI technology to expand AI adoption enterprise-wide. Through its Eliza platform, 20,000+ employees are building AI agents that enhance efficiency and improve client outcomes.",
+      "raw": {
+        "guid": "https://openai.com/index/bny",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/bbva-collaboration-expansion",
+      "title": "BBVA and OpenAI collaborate to transform global banking",
+      "url": "https://openai.com/index/bbva-collaboration-expansion",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-12T00:00:00.000Z",
+      "summary": "BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees. Together, the companies will develop AI solutions that enhance customer int…",
+      "raw": {
+        "guid": "https://openai.com/index/bbva-collaboration-expansion",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/gpt-5-2-for-science-and-math",
+      "title": "Advancing science and math with GPT-5.2",
+      "url": "https://openai.com/index/gpt-5-2-for-science-and-math",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-11T10:00:00.000Z",
+      "summary": "GPT-5.2 is OpenAI’s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath. This post shows how those gains translate into real research progress,…",
+      "raw": {
+        "guid": "https://openai.com/index/gpt-5-2-for-science-and-math",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/disney-sora-agreement",
+      "title": "The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora",
+      "url": "https://openai.com/index/disney-sora-agreement",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-11T00:00:00.000Z",
+      "summary": "Disney and OpenAI have reached an agreement to bring more than 200 Disney, Marvel, Pixar and Star Wars characters to Sora for fan-inspired short videos. The agreement emphasizes responsible AI in entertainment and inclu…",
+      "raw": {
+        "guid": "https://openai.com/index/disney-sora-agreement",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/gpt-5-system-card-update-gpt-5-2",
+      "title": "Update to GPT-5 System Card: GPT-5.2",
+      "url": "https://openai.com/index/gpt-5-system-card-update-gpt-5-2",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-11T00:00:00.000Z",
+      "summary": "GPT-5.2 is the latest model family in the GPT-5 series. The comprehensive safety mitigation approach for these models is largely the same as that described in the GPT-5 System Card and GPT-5.1 System Card. Like OpenAI’s…",
+      "raw": {
+        "guid": "https://openai.com/index/gpt-5-system-card-update-gpt-5-2",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/podium",
+      "title": "Increasing revenue 300% by bringing AI to SMBs",
+      "url": "https://openai.com/index/podium",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-11T00:00:00.000Z",
+      "summary": "Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and transforming how Main Street businesses serve customers.",
+      "raw": {
+        "guid": "https://openai.com/index/podium",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/ten-years",
+      "title": "Ten years",
+      "url": "https://openai.com/index/ten-years",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-11T00:00:00.000Z",
+      "summary": "OpenAI reflects on ten years of progress, from early research breakthroughs to widely used AI systems that reshaped what’s possible. We share lessons from the past decade and why we remain optimistic about building AGI…",
+      "raw": {
+        "guid": "https://openai.com/index/ten-years",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/introducing-gpt-5-2",
+      "title": "Introducing GPT-5.2",
+      "url": "https://openai.com/index/introducing-gpt-5-2",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-11T00:00:00.000Z",
+      "summary": "GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT and the OpenAI API to power faster, more rel…",
+      "raw": {
+        "guid": "https://openai.com/index/introducing-gpt-5-2",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/strengthening-cyber-resilience",
+      "title": "Strengthening cyber resilience as AI capabilities advance",
+      "url": "https://openai.com/index/strengthening-cyber-resilience",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-10T12:00:00.000Z",
+      "summary": "OpenAI is investing in stronger safeguards and defensive capabilities as AI models become more powerful in cybersecurity. We explain how we assess risk, limit misuse, and work with the security community to strengthen c…",
+      "raw": {
+        "guid": "https://openai.com/index/strengthening-cyber-resilience",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/scout24",
+      "title": "How Scout24 is building the next generation of real-estate search with AI",
+      "url": "https://openai.com/index/scout24",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-09T16:00:00.000Z",
+      "summary": "Scout24 has created a GPT-5 powered conversational assistant that reimagines real-estate search, guiding users with clarifying questions, summaries, and tailored listing recommendations.",
+      "raw": {
+        "guid": "https://openai.com/index/scout24",
+        "creator": null
+      }
+    },
+    {
+      "id": "Google AI Blog::https://blog.google/innovation-and-ai/technology/ai/look-back-2025/",
+      "title": "2025 at Google",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/look-back-2025/",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "date": "2025-12-09T16:00:00.000Z",
+      "summary": "Learn more about Google’s launches, milestones and more from 2025.",
+      "raw": {
+        "guid": "https://blog.google/innovation-and-ai/technology/ai/look-back-2025/",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/agentic-ai-foundation",
+      "title": "OpenAI co-founds Agentic AI Foundation, donates AGENTS.md",
+      "url": "https://openai.com/index/agentic-ai-foundation",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-09T09:00:00.000Z",
+      "summary": "OpenAI co-founds the Agentic AI Foundation under the Linux Foundation and donates AGENTS.md to support open, interoperable standards for safe agentic AI.",
+      "raw": {
+        "guid": "https://openai.com/index/agentic-ai-foundation",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/openai-certificate-courses",
+      "title": "Launching our first OpenAI Certifications courses",
+      "url": "https://openai.com/index/openai-certificate-courses",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-09T06:00:00.000Z",
+      "summary": "Learn how OpenAI’s new certifications and AI Foundations courses help people build real-world AI skills, boost career opportunities, and prepare for the future of work.",
+      "raw": {
+        "guid": "https://openai.com/index/openai-certificate-courses",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/openai-appoints-denise-dresser",
+      "title": "OpenAI appoints Denise Dresser as Chief Revenue Officer",
+      "url": "https://openai.com/index/openai-appoints-denise-dresser",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-09T00:00:00.000Z",
+      "summary": "Denise Dresser is joining as Chief Revenue Officer, overseeing OpenAI’s global revenue strategy across enterprise and customer success. She will help more businesses put AI to work in their day-to-day operations as Open…",
+      "raw": {
+        "guid": "https://openai.com/index/openai-appoints-denise-dresser",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/deutsche-telekom-collaboration",
+      "title": "Bringing powerful AI to millions across Europe with Deutsche Telekom",
+      "url": "https://openai.com/index/deutsche-telekom-collaboration",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-09T00:00:00.000Z",
+      "summary": "OpenAI is collaborating with Deutsche Telekom to bring advanced, multilingual AI experiences to millions of people across Europe. ChatGPT Enterprise will also be deployed to help employees at Deutsche Telekom improve wo…",
+      "raw": {
+        "guid": "https://openai.com/index/deutsche-telekom-collaboration",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/commonwealth-bank-of-australia",
+      "title": "Building AI fluency at scale with ChatGPT Enterprise",
+      "url": "https://openai.com/index/commonwealth-bank-of-australia",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-09T00:00:00.000Z",
+      "summary": "Commonwealth Bank of Australia partners with OpenAI to roll out ChatGPT Enterprise to 50,000 employees, building AI fluency at scale to improve customer service and fraud response.",
+      "raw": {
+        "guid": "https://openai.com/index/commonwealth-bank-of-australia",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/instacart-partnership",
+      "title": "Instacart and OpenAI partner on AI shopping experiences",
+      "url": "https://openai.com/index/instacart-partnership",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-08T06:00:00.000Z",
+      "summary": "OpenAI and Instacart are deepening their longstanding partnership by bringing the first fully integrated grocery shopping and Instant Checkout payment app to ChatGPT.",
+      "raw": {
+        "guid": "https://openai.com/index/instacart-partnership",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/the-state-of-enterprise-ai-2025-report",
+      "title": "The state of enterprise AI",
+      "url": "https://openai.com/index/the-state-of-enterprise-ai-2025-report",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-08T04:00:00.000Z",
+      "summary": "Key findings from OpenAI’s enterprise data show accelerating AI adoption, deeper integration, and measurable productivity gains across industries in 2025.",
+      "raw": {
+        "guid": "https://openai.com/index/the-state-of-enterprise-ai-2025-report",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/virgin-atlantic-oliver-byers",
+      "title": "How Virgin Atlantic uses AI to enhance every step of travel",
+      "url": "https://openai.com/index/virgin-atlantic-oliver-byers",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-08T00:00:00.000Z",
+      "summary": "Virgin Atlantic CFO Oliver Byers shares how the airline is using AI to speed up development, improve decision-making, and elevate customer experience.",
+      "raw": {
+        "guid": "https://openai.com/index/virgin-atlantic-oliver-byers",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/global-affairs/openai-for-australia",
+      "title": "Introducing OpenAI for Australia",
+      "url": "https://openai.com/global-affairs/openai-for-australia",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-04T19:00:00.000Z",
+      "summary": "OpenAI is launching OpenAI for Australia to build sovereign AI infrastructure, upskill more than 1.5 million workers, and accelerate innovation across the country’s growing AI ecosystem.",
+      "raw": {
+        "guid": "https://openai.com/global-affairs/openai-for-australia",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/how-confessions-can-keep-language-models-honest",
+      "title": "How confessions can keep language models honest",
+      "url": "https://openai.com/index/how-confessions-can-keep-language-models-honest",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-03T10:00:00.000Z",
+      "summary": "OpenAI researchers are testing “confessions,” a method that trains models to admit when they make mistakes or act undesirably, helping improve AI honesty, transparency, and trust in model outputs.",
+      "raw": {
+        "guid": "https://openai.com/index/how-confessions-can-keep-language-models-honest",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/openai-to-acquire-neptune",
+      "title": "OpenAI to acquire Neptune",
+      "url": "https://openai.com/index/openai-to-acquire-neptune",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-03T10:00:00.000Z",
+      "summary": "OpenAI is acquiring Neptune to deepen visibility into model behavior and strengthen the tools researchers use to track experiments and monitor training.",
+      "raw": {
+        "guid": "https://openai.com/index/openai-to-acquire-neptune",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/people-first-ai-fund-grantees",
+      "title": "Announcing the initial People-First AI Fund grantees",
+      "url": "https://openai.com/index/people-first-ai-fund-grantees",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-03T08:00:00.000Z",
+      "summary": "The OpenAI Foundation announces the initial recipients of the People-First AI Fund, awarding $40.5M in unrestricted grants to 208 nonprofits supporting community innovation and opportunity.",
+      "raw": {
+        "guid": "https://openai.com/index/people-first-ai-fund-grantees",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/mirakl",
+      "title": "Inside Mirakl's agentic commerce vision",
+      "url": "https://openai.com/index/mirakl",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-01T22:00:00.000Z",
+      "summary": "Mirakl is redefining commerce through AI agents and ChatGPT Enterprise—achieving faster documentation, smarter customer support, and building toward agent-native commerce with Mirakl Nexus.",
+      "raw": {
+        "guid": "https://openai.com/index/mirakl",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/ai-mental-health-research-grants",
+      "title": "Funding grants for new research into AI and mental health",
+      "url": "https://openai.com/index/ai-mental-health-research-grants",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-01T12:00:00.000Z",
+      "summary": "OpenAI is awarding up to $2 million in grants for research at the intersection of AI and mental health. The program supports projects that study real-world risks, benefits, and applications to improve safety and well-be…",
+      "raw": {
+        "guid": "https://openai.com/index/ai-mental-health-research-grants",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/norad-holiday-collaboration",
+      "title": "OpenAI and NORAD team up to bring new magic to “NORAD Tracks Santa”",
+      "url": "https://openai.com/index/norad-holiday-collaboration",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-01T06:00:00.000Z",
+      "summary": "OpenAI and NORAD are bringing new magic to “NORAD Tracks Santa” with three ChatGPT holiday tools that let families create festive elves, toy coloring pages, and custom Christmas stories.",
+      "raw": {
+        "guid": "https://openai.com/index/norad-holiday-collaboration",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/accenture-partnership",
+      "title": "Accenture and OpenAI accelerate enterprise AI success",
+      "url": "https://openai.com/index/accenture-partnership",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-01T05:00:00.000Z",
+      "summary": "Accenture and OpenAI are collaborating to help enterprises bring agentic AI capabilities into the core of their business and unlock new levels of growth.",
+      "raw": {
+        "guid": "https://openai.com/index/accenture-partnership",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/thrive-holdings",
+      "title": "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption",
+      "url": "https://openai.com/index/thrive-holdings",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-12-01T05:00:00.000Z",
+      "summary": "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption, embedding frontier research and engineering directly into accounting and IT services to boost speed, accuracy, and efficiency whil…",
+      "raw": {
+        "guid": "https://openai.com/index/thrive-holdings",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/mixpanel-incident",
+      "title": "Mixpanel security incident: what OpenAI users need to know",
+      "url": "https://openai.com/index/mixpanel-incident",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-11-26T19:00:00.000Z",
+      "summary": "OpenAI shares details about a Mixpanel security incident involving limited API analytics data. No API content, credentials, or payment details were exposed. Learn what happened and how we’re protecting users.",
+      "raw": {
+        "guid": "https://openai.com/index/mixpanel-incident",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/expanding-data-residency-access-to-business-customers-worldwide",
+      "title": "Expanding data residency access to business customers worldwide",
+      "url": "https://openai.com/index/expanding-data-residency-access-to-business-customers-worldwide",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-11-25T22:00:00.000Z",
+      "summary": "OpenAI expands data residency for ChatGPT Enterprise, ChatGPT Edu, and the API Platform, enabling eligible customers to store data at rest in-region.",
+      "raw": {
+        "guid": "https://openai.com/index/expanding-data-residency-access-to-business-customers-worldwide",
+        "creator": null
+      }
+    },
+    {
+      "id": "Google AI Blog::https://blog.google/innovation-and-ai/technology/ai/holiday-planning-ai-gemini-tips/",
+      "title": "The Google guide for holiday help",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/holiday-planning-ai-gemini-tips/",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "date": "2025-11-25T18:00:00.000Z",
+      "summary": "Learn more about using Google products like Gemini, Search, Shopping, Pixel and more over the holidays.",
+      "raw": {
+        "guid": "https://blog.google/innovation-and-ai/technology/ai/holiday-planning-ai-gemini-tips/",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/mental-health-litigation-approach",
+      "title": "Our approach to mental health-related litigation",
+      "url": "https://openai.com/index/mental-health-litigation-approach",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-11-25T12:00:00.000Z",
+      "summary": "We’re sharing our approach to mental health-related litigation. O handle sensitive cases with care, transparency, and respect while continuing to strengthen safety and support in ChatGPT.",
+      "raw": {
+        "guid": "https://openai.com/index/mental-health-litigation-approach",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/jetbrains-2025",
+      "title": "Inside JetBrains—the company reshaping how the world writes code",
+      "url": "https://openai.com/index/jetbrains-2025",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-11-25T00:00:00.000Z",
+      "summary": "JetBrains is integrating GPT-5 across its coding tools, helping millions of developers design, reason, and build software faster.",
+      "raw": {
+        "guid": "https://openai.com/index/jetbrains-2025",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/chatgpt-shopping-research",
+      "title": "Introducing shopping research in ChatGPT",
+      "url": "https://openai.com/index/chatgpt-shopping-research",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-11-24T00:00:00.000Z",
+      "summary": "Shopping research in ChatGPT helps you explore, compare, and discover products with personalized buyer’s guides that simplify decision-making",
+      "raw": {
+        "guid": "https://openai.com/index/chatgpt-shopping-research",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/gpt-5-mathematical-discovery",
+      "title": "GPT-5 and the future of mathematical discovery",
+      "url": "https://openai.com/index/gpt-5-mathematical-discovery",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-11-24T00:00:00.000Z",
+      "summary": "UCLA Professor Ernest Ryu and GPT-5 solved a key question in optimization theory, showcasing AI’s role in accelerating mathematical discovery.",
+      "raw": {
+        "guid": "https://openai.com/index/gpt-5-mathematical-discovery",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/openai-and-foxconn-collaborate",
+      "title": "OpenAI and Foxconn collaborate to strengthen U.S. manufacturing across the AI supply chain",
+      "url": "https://openai.com/index/openai-and-foxconn-collaborate",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-11-20T14:50:00.000Z",
+      "summary": "OpenAI and Foxconn are collaborating to design and manufacture next-generation AI infrastructure hardware in the U.S. The partnership will develop multiple generations of data-center systems, strengthen U.S. supply chai…",
+      "raw": {
+        "guid": "https://openai.com/index/openai-and-foxconn-collaborate",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/small-business-ai-jam",
+      "title": "Helping 1,000 small businesses build with AI",
+      "url": "https://openai.com/index/small-business-ai-jam",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-11-20T06:00:00.000Z",
+      "summary": "OpenAI is partnering with DoorDash, SCORE, and local organizations to help 1,000 small businesses build with AI. The Small Business AI Jam gives Main Street business owners hands-on tools and training to compete and gro…",
+      "raw": {
+        "guid": "https://openai.com/index/small-business-ai-jam",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/accelerating-science-gpt-5",
+      "title": "Early experiments in accelerating science with GPT-5",
+      "url": "https://openai.com/index/accelerating-science-gpt-5",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-11-20T00:00:00.000Z",
+      "summary": "OpenAI introduces the first research cases showing how GPT-5 accelerates scientific progress across math, physics, biology, and computer science. Explore how AI and researchers collaborate to generate proofs, uncover ne…",
+      "raw": {
+        "guid": "https://openai.com/index/accelerating-science-gpt-5",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/strengthening-safety-with-external-testing",
+      "title": "Strengthening our safety ecosystem with external testing",
+      "url": "https://openai.com/index/strengthening-safety-with-external-testing",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-11-19T12:00:00.000Z",
+      "summary": "OpenAI works with independent experts to evaluate frontier AI systems. Third-party testing strengthens safety, validates safeguards, and increases transparency in how we assess model capabilities and risks.",
+      "raw": {
+        "guid": "https://openai.com/index/strengthening-safety-with-external-testing",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/evals-drive-next-chapter-of-ai",
+      "title": "How evals drive the next chapter in AI for businesses",
+      "url": "https://openai.com/index/evals-drive-next-chapter-of-ai",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-11-19T11:00:00.000Z",
+      "summary": "Learn how evals help businesses define, measure, and improve AI performance—reducing risk, boosting productivity, and driving strategic advantage.",
+      "raw": {
+        "guid": "https://openai.com/index/evals-drive-next-chapter-of-ai",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/target-partnership",
+      "title": "OpenAI and Target team up on new AI-powered experiences",
+      "url": "https://openai.com/index/target-partnership",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-11-19T06:00:00.000Z",
+      "summary": "OpenAI and Target are partnering to bring a new Target app to ChatGPT, offering personalized shopping and faster checkout. Target will also expand its use of ChatGPT Enterprise to boost productivity and guest experience…",
+      "raw": {
+        "guid": "https://openai.com/index/target-partnership",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/scania",
+      "title": "How Scania is accelerating work with AI across its global workforce",
+      "url": "https://openai.com/index/scania",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-11-19T00:00:00.000Z",
+      "summary": "Description: Global manufacturer Scania is scaling AI with ChatGPT Enterprise. With team-based onboarding and strong guardrails, AI is boosting productivity, quality, and innovation.",
+      "raw": {
+        "guid": "https://openai.com/index/scania",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/gpt-5-1-codex-max",
+      "title": "Building more with GPT-5.1-Codex-Max",
+      "url": "https://openai.com/index/gpt-5-1-codex-max",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-11-19T00:00:00.000Z",
+      "summary": "Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex. The model is designed for long-running, project-scale work with enhanced reasoning and token efficiency.",
+      "raw": {
+        "guid": "https://openai.com/index/gpt-5-1-codex-max",
+        "creator": null
+      }
+    },
+    {
+      "id": "OpenAI::https://openai.com/index/chatgpt-for-teachers",
+      "title": "A free version of ChatGPT built for teachers",
+      "url": "https://openai.com/index/chatgpt-for-teachers",
+      "source": "OpenAI",
+      "category": "AI",
+      "date": "2025-11-19T00:00:00.000Z",
+      "summary": "ChatGPT for Teachers is a secure workspace with education‑grade privacy and admin controls. Free for verified U.S. K–12 educators through June 2027.",
+      "raw": {
+        "guid": "https://openai.com/index/chatgpt-for-teachers",
+        "creator": null
+      }
+    }
+  ]
+}

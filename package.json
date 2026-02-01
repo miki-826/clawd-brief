@@ -1,0 +1,11 @@
+{
+  "name": "clawd-brief",
+  "private": true,
+  "workspaces": ["web", "worker"],
+  "scripts": {
+    "dev": "npm --workspace web run dev",
+    "build": "npm --workspace web run build",
+    "preview": "npm --workspace web run preview",
+    "fetch": "npm --workspace worker run fetch"
+  }
+}
